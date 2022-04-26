@@ -1,0 +1,75 @@
+<html>
+	<head>
+		<title>
+			Nike
+		</title>
+		<link rel="shorcut icon" href="logo.png">
+		<link rel="stylesheet" href="estilos.css">
+	</head>
+	<body>
+	<div class="div1">
+		<img src=nikelogo.jpg class="tam">
+		<h1>
+			<font>
+        Ropa
+			</font>
+		</h1>
+		</div>
+		<center>
+		<div class="div2">
+			<div class="caja">
+				<td class="tr"> <img src =sudadera.jpg class="tam4"></td>
+				<div class="caja-texto"></div>
+				<div class="texto-adicional"></div>
+			</div>
+			<div class="caja">
+				<td class="tr"> <img src =pants1.jpg class="tam4"></td>
+				<div class="caja-texto"> </div>
+				<div class="texto-adicional"></div>
+			</div>
+			<div class="caja">
+				<td class="tr"><img src =pants2.jpg class="tam4"></td>
+				<div class="caja-texto"> </div>
+				<div class="texto-adicional"></div>
+			</div>
+			<div class="caja">
+				<td class="tr"><img src =pants3.jpg class="tam4"></td>
+				<div class="caja-texto"> </div>
+				<div class="texto-adicional"></div>
+			</div>
+		</center>
+		</div>
+		</table>
+		<div class="div3">
+		<table class="sun">
+			<tr class="sun">
+				<td class="sun"><A href="principal.html"><img src=first.jpg class="tam3"></A>
+					<center><font>
+					Principal
+					</center></font></td>
+				<td class="sun"><A href="historianike.html"><img src=nikeprimera.png class="tam3"></A>
+					<center><font>
+					Historia
+					</td></center></font>
+				<td class="sun"><A href="productos.html"><img src=nikenyc.jpg class="tam3"></A>
+					<font><center>
+					Productos
+					</font></center></td>
+				<td class="sun"><A href="contacto.html"><img src=nike3.jpg class="tam3"></A>
+					<font><center>
+					Contacto
+					</font></center></td>
+			</tr>
+			</div>
+		</table>
+		<div class="div4">
+			<p>	
+        &copy; 2022. Derechos Reservados<br>
+		Desarrollado por Gallardo Castillo Luis Manuel
+		Matricula:01905158
+		Grupo:605<br>
+		Plantel Nueva Tijuana
+			</p>	
+		</div>
+	</body>
+</html>

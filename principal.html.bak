@@ -1,0 +1,53 @@
+<html>
+	<head>
+		<title>Nike</title>
+		<link rel="shortcut icon" href="logo.png">
+		<link rel="stylesheet" href="estilos.css">
+	</head>
+	<body>
+	<div class="div1">
+		<img src=nikelogo.jpg class="tam">
+		<h1>
+			Just Do It
+		</h1>
+		</div>
+	<div class="div2">
+		<marquee behavior="alternate">
+			<img src=zapato.jpg class="tam2">
+			<img src=futbol.jpg class="tam2">
+			<img src=camisa.jpg class="tam2">
+		</marquee>
+		</div>
+		<div class="div3">
+		<table class="sun">
+			<tr class="sun">
+				<td class="sun"><A href="principal.html"><img src=first.jpg class="tam3"></A>
+					<center><font>
+					Principal
+					</center></font></td>
+				<td class="sun"><A href="historianike.html"><img src=nikeprimera.png class="tam3"></A>
+					<center><font>
+					Historia
+					</td></center></font>
+				<td class="sun"><A href="productos.html"><img src=nikenyc.jpg class="tam3"></A>
+					<font><center>
+					Productos
+					</font></center></td>
+				<td class="sun"><A href="contacto.html"><img src=nike3.jpg class="tam3"></A>
+					<font><center>
+					Contacto
+					</font></center></td>
+			</tr>
+			</div>
+		</table>
+		<div class="div4">
+			<p>	
+        &copy; 2022. Derechos Reservados<br>
+		Desarrollado por Gallardo Castillo Luis Manuel
+		Matricula:01905158
+		Grupo:605<br>
+		Plantel Nueva Tijuana
+			</p>	
+		</div>
+	</body>
+</html>

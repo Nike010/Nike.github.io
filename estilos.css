@@ -1,0 +1,252 @@
+body{
+	background:#646464;
+}
+h1{
+	color:#383636;
+	font-family: times new roman;
+	font-size: 50px;
+	text-align: center;
+}
+h2{
+    color:#FF2D00;
+	font-family: times new roman;
+	font-size: 50px;
+	text-align: center
+}
+/* revisado */
+p{
+	color: #373636; 
+	font-family:times new roman;
+	font-size: 10px;
+	text-align: center;
+	font-weight: bold;
+	font-style: italic;
+}
+}
+/* esra clase es para quitar borde y fondo a las tablas*/
+.sun{
+    border-style: transparent;
+	border:0;
+	background-color: transparent;
+}
+/*revisado*/
+tr{
+	color: #FF2D00; 
+	font-family: times new roman;
+	font-size: 10px;
+	text-align: center;
+}
+/*revisado*/
+th{	
+	color: red ; 
+	font-family: times new roman;
+	font-size: 20px;
+	text-align: center;
+}
+/*revisado*/
+td{
+	color: #373636; 
+	font-family: times new roman;
+	font-size: 20px;
+	text-align: center;
+}
+/*revisado*/
+table{
+  color: #B51414; 
+	font-family: time new roman;
+	font-size: 20px;
+	text-align: center;
+	font-weight: bold;
+	font-style: italic;
+	border: 2;
+	border-color: transparent;
+	border-style:transparent;
+	margin-left: auto;
+	margin-right: auto;
+	border-collapse: collapse;
+}
+/*revisado los tres*/
+.tam{
+	width: 150px;
+	height: 100px;
+	position: relative;
+	right: 500px;
+}
+.tam2{
+	width: 150px;
+	height: 125px;
+}
+.tam3{
+	width: 140;
+	height: 140;
+}
+li{
+	color: #F40606;
+	font-family: time new roman;
+	font-size: 25px;
+	text-align: center;
+}
+.fuente{
+	color: #F40606;
+	font-family: time new roman;
+	font-size: 20px;
+	text-align: center;
+}
+.table2{
+	color: #B51414; 
+	font-family: time new roman;
+	font-size: 20px;
+	text-align: center;
+	font-weight: bold;
+	font-style: italic;
+	border: 2;
+	width: 60%;
+	height: 30%;
+	border-color: black;
+	border-style:solid;
+	margin-left: auto;
+	margin-right: auto;
+	border-collapse: collapse;
+}
+.table2{
+	color: #B51414; 
+	font-family: time new roman;
+	font-size: 20px;
+	text-align: center;
+	font-weight: bold;
+	font-style: italic;
+	border: 2;
+	border-color: black;
+	border-style:solid;
+	margin-left: auto;
+	margin-right: auto;
+	border-collapse: collapse;
+	background-color: white;
+}
+.tr{
+	border-color: #641E16;
+	border-style: solid;
+}
+/*tamano de la imagenes de productos de la tabla*/
+.tam4{
+	width: 200;
+	height: 200;
+}
+/*encabezados*/
+.div1{
+		background: #5D6D7E;
+		border: 5px solid #5D6D7E;
+		text-align: center;
+		
+}
+/*lo marquee de la principal*/
+.div2{
+		background: #34495E ;
+		border: 5px solid #34495E ;
+		text-align: center;
+}
+/*botones que te redireccionan a las paginas*/
+.div3{
+		background: #2E4053;
+		border: 0px solid #2E4053;
+		text-align: center;
+		}
+/*los creditos de la parte inferior de las paginas*/
+.div4{
+		background: #17202A;
+		border: 0px solid #17202A;
+		text-align: center;
+}
+.div5{
+		background: #17202A;
+		border: 0px solid #17202A;
+		text-align: center;
+}
+.caja{
+	height: 300px;
+	width: 250px;
+	background: white;
+	border: 1px solid white;
+	margin: 5px;
+	color: black;
+	text-align: center;
+	font-family: arial;
+	display:inline-block;
+}
+.caja:hover{
+	/*agregar sombra xd*/
+	/*           x  y  radio  color*/
+	box-shadow: 0 0 10px blue;
+	transform: scale( 1.4);
+	
+}
+/*texto*/
+.caja-texto{
+	padding-bottom:5px;
+	padding-top:2px;
+	font-size:20px;
+	color:blue;
+	font-weight:bold;
+	display:inline-block;
+}
+.texto-adicional{
+	padding-top:5px;
+	font-size:25px;
+}
+@font-face{
+	font-family:"mifuente";
+	src: url(long_shot.ttf);
+}
+
+#fuente-long{
+	font-family:"mifuente";	
+}
+.div6{
+	background:#212F3C ;
+	height: 180px;
+	width: 450px;
+	display:inline-block;
+	transition: all 1s;
+	transition-timing-function: ease;
+}
+.div6:hover{
+	width:900px
+}
+.div7{
+	background: #283747;
+	height: 180px;
+	width: 450px;
+	display:inline-block;
+	transition: all 1s;
+	transition-timing-function: ease;
+}
+.div7:hover{
+	width:900px
+}
+.div8{
+	background: #2E4053;
+	height: 180px;
+	width: 450px;
+	display:inline-block;
+	transition: all 1s;
+	transition-timing-function: ease;
+}
+.div8:hover{
+	width:900px
+}
+.div10{
+	background: #85929E;
+	height: 180px;
+	width: 450px;
+	display:inline-block;
+	transition: all 1s;
+	transition-timing-function: ease;
+}
+.div10:hover{
+	width:900px
+	
+}
+.contenedor{
+	display:flex
+}
+
